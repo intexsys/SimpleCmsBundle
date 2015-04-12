@@ -16,7 +16,7 @@
         "php": ">=5.3.3",
         "symfony/framework-bundle": "~2.3",
         "symfony-cmf/core-bundle": "~1.1",
-        "symfony-cmf/routing-bundle": "~1.2",
+        "symfony-cmf/routing-bundle": "1.4.*@dev",
         "symfony-cmf/menu-bundle": "2.0.*@dev",
         "symfony-cmf/content-bundle": "~1.0",
         "doctrine/phpcr-bundle": "~1.1",
